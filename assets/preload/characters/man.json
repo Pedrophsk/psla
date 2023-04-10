@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				219,
+				-155
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "man left"
+		},
+		{
+			"offsets": [
+				-20,
+				-270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "man down"
+		},
+		{
+			"offsets": [
+				0,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "man up"
+		},
+		{
+			"offsets": [
+				-110,
+				-123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "man right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "man idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-140
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "ahhhh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/man",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "man",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		5,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
